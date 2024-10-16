@@ -34,7 +34,7 @@ You can also experiment with different models and techniques within the provided
 2. Content-Based Filtering: Using TF-IDF and GloVe embeddings, we recommend movies with similar content (e.g., genres, cast, description).
 3. Neural Collaborative Filtering: Deep learning models that use user and movie embeddings to make recommendations.
 4. Voting Classifier: Combines predictions from multiple classifiers for a more robust recommendation.
-* [Code link]([https://www.kaggle.com/datasets/shivamb/netflix-shows?select=netflix_titles.csv](https://colab.research.google.com/drive/1PTVD_OWgyO83X7JlJSCdseFT-TCJEZGM?usp=sharing))
+* [Code link]([https://www.kaggle.com/datasets/shivamb/netflix-shows?select=netflix_titles.csv](https://colab.research.google.com/drive/1PTVD_OWgyO83X7JlJSCdseFT-TCJEZGM?usp=sharing])
 
 ```bash
 Author: Nourhan Farag
